@@ -224,7 +224,7 @@ body{
 
     padding: 48px 32px 48px 40px;
 
-    background: #252525;
+    /* background: #252525; */
 
     border: 1px solid #F6F6F61A;
 
@@ -232,6 +232,7 @@ body{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    background-image: url(../img/background/development/background_development_1.png);
 
 }
 .services_block-item h3{
